@@ -1,1 +1,0 @@
-# reduxify-react-challenge
